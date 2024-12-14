@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Iceland&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Iceland", serif;
+    font-size: 20px;
+}
+
+.app {
+    min-height: 100vh;
+    display: grid;
+    background-color: white;
+}
